@@ -1,0 +1,11 @@
+/home/master/Documents/bootcamp/Regular_Expressions/RegularExpressions/bin/Debug/netcoreapp2.1/RegularExpressions.deps.json
+/home/master/Documents/bootcamp/Regular_Expressions/RegularExpressions/bin/Debug/netcoreapp2.1/RegularExpressions.runtimeconfig.json
+/home/master/Documents/bootcamp/Regular_Expressions/RegularExpressions/bin/Debug/netcoreapp2.1/RegularExpressions.runtimeconfig.dev.json
+/home/master/Documents/bootcamp/Regular_Expressions/RegularExpressions/bin/Debug/netcoreapp2.1/RegularExpressions.dll
+/home/master/Documents/bootcamp/Regular_Expressions/RegularExpressions/bin/Debug/netcoreapp2.1/RegularExpressions.pdb
+/home/master/Documents/bootcamp/Regular_Expressions/RegularExpressions/obj/Debug/netcoreapp2.1/RegularExpressions.csprojAssemblyReference.cache
+/home/master/Documents/bootcamp/Regular_Expressions/RegularExpressions/obj/Debug/netcoreapp2.1/RegularExpressions.csproj.CoreCompileInputs.cache
+/home/master/Documents/bootcamp/Regular_Expressions/RegularExpressions/obj/Debug/netcoreapp2.1/RegularExpressions.AssemblyInfoInputs.cache
+/home/master/Documents/bootcamp/Regular_Expressions/RegularExpressions/obj/Debug/netcoreapp2.1/RegularExpressions.AssemblyInfo.cs
+/home/master/Documents/bootcamp/Regular_Expressions/RegularExpressions/obj/Debug/netcoreapp2.1/RegularExpressions.dll
+/home/master/Documents/bootcamp/Regular_Expressions/RegularExpressions/obj/Debug/netcoreapp2.1/RegularExpressions.pdb
